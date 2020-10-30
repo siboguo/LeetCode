@@ -2,7 +2,7 @@
 * [MonotonicQueue](#MonotonicQueue)
 <!-- GFM-TOC -->
 
-# MonotonicQueuq
+# MonotonicQueue
 A monotonic Queue is a data structure the elements from the front to the end is strictly either increasing or decreasing
 
 # Code
